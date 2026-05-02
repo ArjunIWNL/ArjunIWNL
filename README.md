@@ -45,7 +45,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://lanyard.cnrad.dev/api/1120396697600790569?idleMessage=Idk" alt="Discord status">
+  <img src="https://lanyard.cnrad.dev/api/1120396697600790569?idleMessage=I'll be Back Soon" alt="Discord status">
 </p>
 
 <h3 align="center"> 𐌔𐌕𐌀𐌕𐌔 </h3>
