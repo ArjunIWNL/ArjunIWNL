@@ -44,8 +44,8 @@
 
 <br/>
 
-<p align="center">
-  <img src="https://lanyard.cnrad.dev/api/1120396697600790569?idleMessage="I will be Back Soon" alt="Discord status">
+<p align="center">  
+<a href="https://discord.com/users/1120396697600790569"><img src="https://lanyard.cnrad.dev/api/1120396697600790569?showDisplayName=true" /></a>
 </p>
 <h3 align="center"> 𐌔𐌕𐌀𐌕𐌔 </h3>
 
