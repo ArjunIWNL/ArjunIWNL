@@ -1,7 +1,7 @@
 <p align="center">
 </p>
 
-<h2 align="center">𝗔𝗥𝗝𝗨𝗡 // EAT, SLEEP & CODE</h2>
+<h2 align="center"> ❄️ 𝗔𝗥𝗝𝗨𝗡 // EAT, SLEEP & CODE</h2>
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
