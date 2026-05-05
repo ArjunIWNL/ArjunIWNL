@@ -45,7 +45,7 @@
 <br/>
 
 <p align="center">  
-<a href="https://discord.com/users/1120396697600790569"><img src="https://lanyard.cnrad.dev/api/1120396697600790569?showDisplayName=true" /></a>
+<a href="https://discord.com/users/1120396697600790569"><img src="https://lanyard.cnrad.dev/api/1120396697600790569?showDisplayName=true&idleMessage=Taking%20a%20break.%20No%20worries%2C%20I%E2%80%99ll%20be%20here." /></a>
 </p>
 <h3 align="center"> 𐌔𐌕𐌀𐌕𐌔 </h3>
 
